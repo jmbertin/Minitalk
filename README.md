@@ -1,8 +1,8 @@
 # Minitalk Project
-
-Minitalk is a unique communication system built on UNIX signals. This lightweight server-client application allows for a simple and direct means of interprocess communication through customized handling of SIGUSR1 and SIGUSR2 signals.
+Minitalk is a project undertaken as part of the 42 school curriculum. It's a unique communication system built on UNIX signals. This lightweight server-client application allows for a simple and direct means of interprocess communication through customized handling of SIGUSR1 and SIGUSR2 signals.
 
 ----
+
 ## Features
 
 - Lightweight server-client communication
@@ -12,6 +12,7 @@ Minitalk is a unique communication system built on UNIX signals. This lightweigh
 - Error handling for unexpected input scenarios
 
 ----
+
 ## Compilation
 
 To compile the project, run the following command in your terminal:
