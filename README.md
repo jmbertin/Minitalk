@@ -1,4 +1,4 @@
-# Minitalk Project
+# Minitalk
 Minitalk is a project undertaken as part of the 42 school curriculum. It's a unique communication system built on UNIX signals. This lightweight server-client application allows for a simple and direct means of interprocess communication through customized handling of SIGUSR1 and SIGUSR2 signals.
 
 ----
